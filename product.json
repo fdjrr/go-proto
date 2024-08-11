@@ -1,0 +1,350 @@
+{
+  "pagination": {
+    "total": 100,
+    "per_page": 10,
+    "current_page": 1,
+    "last_page": 10
+  },
+  "data": [
+    {
+      "id": 1,
+      "name": "Nike Black T-Shirt",
+      "price": 100000,
+      "stock": 10,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Adidas White T-Shirt",
+      "price": 95000,
+      "stock": 15,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Puma Grey Hoodie",
+      "price": 250000,
+      "stock": 5,
+      "category": {
+        "id": 2,
+        "name": "Hoodie"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Reebok Blue Shorts",
+      "price": 120000,
+      "stock": 20,
+      "category": {
+        "id": 3,
+        "name": "Shorts"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Under Armour Black Cap",
+      "price": 50000,
+      "stock": 30,
+      "category": {
+        "id": 4,
+        "name": "Cap"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Nike Grey Sweatpants",
+      "price": 180000,
+      "stock": 12,
+      "category": {
+        "id": 5,
+        "name": "Pants"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Adidas Red T-Shirt",
+      "price": 100000,
+      "stock": 18,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Puma Blue Hoodie",
+      "price": 260000,
+      "stock": 8,
+      "category": {
+        "id": 2,
+        "name": "Hoodie"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Reebok Green Shorts",
+      "price": 125000,
+      "stock": 10,
+      "category": {
+        "id": 3,
+        "name": "Shorts"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Under Armour White Cap",
+      "price": 55000,
+      "stock": 25,
+      "category": {
+        "id": 4,
+        "name": "Cap"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Nike Blue T-Shirt",
+      "price": 105000,
+      "stock": 14,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Adidas Black Hoodie",
+      "price": 270000,
+      "stock": 7,
+      "category": {
+        "id": 2,
+        "name": "Hoodie"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Puma Yellow Shorts",
+      "price": 130000,
+      "stock": 20,
+      "category": {
+        "id": 3,
+        "name": "Shorts"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Reebok Black Cap",
+      "price": 60000,
+      "stock": 22,
+      "category": {
+        "id": 4,
+        "name": "Cap"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Under Armour Grey Sweatpants",
+      "price": 190000,
+      "stock": 11,
+      "category": {
+        "id": 5,
+        "name": "Pants"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Nike Red T-Shirt",
+      "price": 110000,
+      "stock": 16,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Adidas Grey Hoodie",
+      "price": 280000,
+      "stock": 9,
+      "category": {
+        "id": 2,
+        "name": "Hoodie"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Puma Black Shorts",
+      "price": 135000,
+      "stock": 13,
+      "category": {
+        "id": 3,
+        "name": "Shorts"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Reebok Red Cap",
+      "price": 65000,
+      "stock": 27,
+      "category": {
+        "id": 4,
+        "name": "Cap"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Under Armour Blue Sweatpants",
+      "price": 200000,
+      "stock": 10,
+      "category": {
+        "id": 5,
+        "name": "Pants"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Nike Green T-Shirt",
+      "price": 115000,
+      "stock": 12,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Adidas Blue Hoodie",
+      "price": 290000,
+      "stock": 8,
+      "category": {
+        "id": 2,
+        "name": "Hoodie"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Puma White Shorts",
+      "price": 140000,
+      "stock": 15,
+      "category": {
+        "id": 3,
+        "name": "Shorts"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Reebok Blue Cap",
+      "price": 70000,
+      "stock": 18,
+      "category": {
+        "id": 4,
+        "name": "Cap"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Under Armour Red Sweatpants",
+      "price": 210000,
+      "stock": 7,
+      "category": {
+        "id": 5,
+        "name": "Pants"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Nike Yellow T-Shirt",
+      "price": 120000,
+      "stock": 11,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Adidas Black Hoodie",
+      "price": 300000,
+      "stock": 10,
+      "category": {
+        "id": 2,
+        "name": "Hoodie"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Puma Grey Shorts",
+      "price": 145000,
+      "stock": 9,
+      "category": {
+        "id": 3,
+        "name": "Shorts"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Reebok Green Cap",
+      "price": 75000,
+      "stock": 24,
+      "category": {
+        "id": 4,
+        "name": "Cap"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Under Armour Yellow Sweatpants",
+      "price": 220000,
+      "stock": 13,
+      "category": {
+        "id": 5,
+        "name": "Pants"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Nike Black T-Shirt",
+      "price": 125000,
+      "stock": 14,
+      "category": {
+        "id": 1,
+        "name": "Shirt"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Adidas White Hoodie",
+      "price": 310000,
+      "stock": 7,
+      "category": {
+        "id": 2,
+        "name": "Hoodie"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Puma Red Shorts",
+      "price": 150000,
+      "stock": 18,
+      "category": {
+        "id": 3,
+        "name": "Shorts"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Reebok Black Cap",
+      "price": 80000,
+      "stock": 20,
+      "category": {
+        "id": 4,
+        "name": "Cap"
+      }
+    }
+  ]
+}
